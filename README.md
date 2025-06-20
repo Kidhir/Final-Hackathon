@@ -71,10 +71,3 @@ streamlit run app.py
 ├── .env
 ├── diagram.png
 📝 Notes
-
-.env required with OPENAI_API_KEY or Hugging Face token
-No commits after 5:30 PM (as per hackathon rules)
-Public repository required
-🎥 Demo
-
-Link to Loom/YT video or attach demo.mp4 here
