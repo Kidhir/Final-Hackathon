@@ -1,0 +1,15 @@
+langgraph
+langchain
+streamlit
+openai
+tqdm
+python-dotenv
+requests
+bs4
+faiss-cpu
+pydantic
+matplotlib
+scikit-learn
+pyresparser
+pdfplumber
+nltk
