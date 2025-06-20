@@ -70,4 +70,3 @@ streamlit run app.py
 ├── requirements.txt
 ├── .env
 ├── diagram.png
-📝 Notes
