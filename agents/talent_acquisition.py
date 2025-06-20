@@ -56,5 +56,4 @@ def talent_acquisition_agent(state: GraphState) -> GraphState:
             state.recommendations = []
             state.interview_details = {}
             state.notes = "No strong match found from resume."
-
     return state
